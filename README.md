@@ -1,16 +1,6 @@
-# simple_travel
+# Simple Travel Application Using Flutter
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 11 - 2022-09-01 at 12 34 54](https://user-images.githubusercontent.com/80895950/187839097-2a3ccb18-fbc5-4d8e-ac7c-f6f854898291.png)
+![Simulator Screen Shot - iPhone 11 - 2022-09-01 at 12 34 57](https://user-images.githubusercontent.com/80895950/187839113-bf52d218-0c84-4305-a9a4-b7a3978ebeec.png)
+![Simulator Screen Shot - iPhone 11 - 2022-09-01 at 12 35 00](https://user-images.githubusercontent.com/80895950/187839120-5b8d2365-6e8c-463e-9d90-f59381987260.png)
